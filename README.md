@@ -8,8 +8,7 @@
 
 I'm Saif,  
 - 🎓 I'm a student.  
-- 💻 I'm currently learning C++  
-- ⚡ In my free time I try to learn new stuff like Server Management.  
+- 💻 I'm currently learning C++
 
 ### 🛠️ Language and tools
 <p align="left">
