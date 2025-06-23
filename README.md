@@ -12,15 +12,34 @@ I'm Saif,
 
 ### 🛠️ Language and tools
 <p align="left">
+  <!-- NodeJS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="NodeJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="30" alt="Laravel"/>
+  
+  <!-- Laravel (custom fallback because Devicon doesn't support SVG for Laravel fully) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="30" alt="Laravel"/>
+
+  <!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" alt="Tailwind CSS"/>
+
+  <!-- Tailwind CSS (custom hosted version) -->
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30" alt="Tailwind CSS"/>
+
+  <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="30" alt="Cisco"/>
+
+  <!-- Cisco (custom logo since not available in Devicon) -->
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/cisco.png" width="30" alt="Cisco"/>
+
+  <!-- Django -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" alt="Django"/>
+
+  <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React"/>
+
+  <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" alt="C++"/>
+
+  <!-- C -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" alt="C"/>
 </p>
 
