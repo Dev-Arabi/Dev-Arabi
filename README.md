@@ -1,66 +1,29 @@
-<!-- Social Links -->
 <p align="center">
-  <a href="https://youtube.com/@floydgaming199" target="_blank">
-    <img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logo=youtube" alt="YouTube"/>
-  </a>
-  <a href="https://discord.gg/RPT9uv97Fh" target="_blank">
-    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=cd+~/Dev-Arabi;cat+bio.txt;echo+'Welcome+to+my+terminal+profile!'" />
 </p>
+saif@github:~$ whoami
 
----
+    Saif — tech enthusiast, backend explorer, networking learner
 
-## 👋 Hey there!
+saif@github:~$ cat about-me.txt
 
-I'm **Saif** — a passionate student exploring the world of technology, development, and networking.
-
-### 👨‍🎓 About Me
-
-- 🎓 I'm currently a student.
-- 💻 Actively learning **C++** and exploring systems programming.
-- 🧠 Interested in **backend development**, **networking**, and **DevOps tools**.
-
----
-
-### 🛠️ Tools & Technologies
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="NodeJS"/>
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="30" alt="TypeScript"/>
-  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="30" alt="Laravel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" alt="Docker"/>
-  <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" width="30" alt="Cisco"/>
-</p>
-
----
-
-<h2 align="center">📊 My GitHub Stats</h2>
+    🎓 Currently a student
+    💻 Learning C++ and systems programming
+    🌐 Interested in backend, networking, and DevOps tools
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dev-Arabi&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats"/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Arabi&layout=compact&theme=github_dark&hide_border=true&border_radius=10" height="160" alt="Top Languages"/>
 </p>
-
 <a href="https://github.com/dev-arabi">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-arabi&theme=github-dark&hide_border=true" />
 </a>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dev-Arabi&label=Profile%20views&color=blue&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Dev-Arabi?label=Followers&style=flat&color=blue" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Dev-Arabi&label=Profile%20views&color=00ff00&style=flat" alt="Profile Views"/>
 </p>
-
----
-
-### 🤝 Let's Connect
-
-- 📺 [YouTube](https://youtube.com/@floydgaming199)  
-- 💬 [Discord Server](https://discord.gg/RPT9uv97Fh)
-
----
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Dev-Arabi?label=Followers&style=flat&color=00ff00" alt="GitHub Followers"/>
+</p>
