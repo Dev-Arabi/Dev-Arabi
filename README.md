@@ -40,7 +40,7 @@ I'm **Saif** — a passionate student exploring the world of technology, develop
 
 ---
 
-### 📈 GitHub Stats
+### 📈 My Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Dev-Arabi&show_icons=true&theme=github_dark" height="150" alt="GitHub Stats"/>
