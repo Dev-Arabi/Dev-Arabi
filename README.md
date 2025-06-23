@@ -48,7 +48,7 @@ I'm **Saif** — a passionate student exploring the world of technology, develop
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arabi&theme=github_dark&hide_border=true&border_radius=10" height="160" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Arabi&theme=github_dark&hide_border=true&border_radius=10" height="160" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
