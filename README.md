@@ -40,15 +40,20 @@ I'm **Saif** — a passionate student exploring the world of technology, develop
 
 ---
 
-### 📈 My Stats
+<h2 align="center">📊 My GitHub Stats</h2>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Arabi&show_icons=true&theme=github_dark" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Arabi&layout=compact&theme=github_dark" height="150" alt="Top Languages"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Arabi&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Arabi&layout=compact&theme=github_dark&hide_border=true&border_radius=10" height="160" alt="Top Languages"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-arabi&theme=github_dark" alt="GitHub Streak"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Arabi&theme=github_dark&hide_border=true&border_radius=10" height="160" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dev-Arabi&label=Profile%20views&color=blue&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Dev-Arabi?label=Followers&style=flat&color=blue" alt="GitHub Followers"/>
 </p>
 
 ---
