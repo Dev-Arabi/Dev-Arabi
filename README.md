@@ -27,8 +27,8 @@ I'm Saif,
 
 ### 🔥 My Stats :
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabbir&show_icons=true&theme=tokyonight)](https://github.com/sabbir)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-arabi&show_icons=true&theme=tokyonight)](https://github.com/dev-arabi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir&layout=compact&theme=tokyonight)](https://github.com/sabbir)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-arabi&layout=compact&theme=tokyonight)](https://github.com/dev-arabi)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabbir&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-arabi&theme=tokyonight)](https://git.io/streak-stats)
