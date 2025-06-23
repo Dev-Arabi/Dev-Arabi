@@ -44,7 +44,7 @@ I'm **Saif** — a passionate student exploring the world of technology, develop
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Dev-Arabi&show_icons=true&theme=github_dark" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=github_dark" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Arabi&layout=compact&theme=github_dark" height="150" alt="Top Languages"/>
 </p>
 
 <p align="left">
