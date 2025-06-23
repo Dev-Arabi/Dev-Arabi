@@ -42,12 +42,12 @@ I'm **Saif** — a passionate student exploring the world of technology, develop
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-arabi&show_icons=true&theme=github_dark" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-arabi&layout=compact&theme=github_dark" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Arabi&show_icons=true&theme=github_dark" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Arabi&layout=compact&theme=github_dark" height="150" alt="Top Languages"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-arabi&theme=github_dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Arabi&theme=github_dark" alt="GitHub Streak"/>
 </p>
 
 ---
