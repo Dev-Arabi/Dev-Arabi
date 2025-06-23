@@ -14,21 +14,21 @@ I'm Saif,
 <p align="left">
   <!-- NodeJS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="NodeJS"/>
-  
-  <!-- Laravel (custom fallback because Devicon doesn't support SVG for Laravel fully) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="30" alt="Laravel"/>
+
+  <!-- Laravel (from vectorlogo.zone) -->
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="30" alt="Laravel"/>
 
   <!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5"/>
 
-  <!-- Tailwind CSS (custom hosted version) -->
+  <!-- Tailwind CSS (from vectorlogo.zone) -->
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30" alt="Tailwind CSS"/>
 
   <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" alt="Docker"/>
 
-  <!-- Cisco (custom logo since not available in Devicon) -->
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/cisco.png" width="30" alt="Cisco"/>
+  <!-- Cisco (from vectorlogo.zone) -->
+  <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" width="30" alt="Cisco"/>
 
   <!-- Django -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" alt="Django"/>
