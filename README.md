@@ -50,6 +50,9 @@ I'm **Saif** — a passionate student exploring the world of technology, develop
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Arabi&theme=github_dark&hide_border=true&border_radius=10" height="160" alt="GitHub Streak"/>
 </p>
+<a href="https://github.com/dev-arabi">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-arabi&theme=github-dark&hide_border=true" />
+</a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dev-Arabi&label=Profile%20views&color=blue&style=flat" alt="Profile Views"/>
